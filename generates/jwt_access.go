@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/go-oauth2/oauth2/v4"
-	"github.com/go-oauth2/oauth2/v4/errors"
+	"github.com/go-fed/oauth2"
+	"github.com/go-fed/oauth2/errors"
 	"github.com/google/uuid"
 )
 

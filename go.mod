@@ -1,4 +1,4 @@
-module github.com/go-oauth2/oauth2/v4
+module github.com/go-fed/oauth2
 
 go 1.13
 

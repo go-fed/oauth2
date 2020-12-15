@@ -29,3 +29,6 @@ _testmain.go
 *.swp
 /example/client/client
 /example/server/server
+
+# Ignore vim temporary files
+**/*~

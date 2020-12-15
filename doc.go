@@ -3,9 +3,9 @@
 //     package main
 //     import (
 //         "net/http"
-//         "github.com/go-oauth2/oauth2/v4/manage"
-//         "github.com/go-oauth2/oauth2/v4/server"
-//         "github.com/go-oauth2/oauth2/v4/store"
+//         "github.com/go-fed/oauth2/manage"
+//         "github.com/go-fed/oauth2/server"
+//         "github.com/go-fed/oauth2/store"
 //     )
 //     func main() {
 //         manager := manage.NewDefaultManager()
